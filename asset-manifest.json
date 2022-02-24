@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Hash-Calculator-React/static/css/main.2b575651.css",
+    "main.js": "/Hash-Calculator-React/static/js/main.8dfeeeb5.js",
+    "static/js/377.41def236.chunk.js": "/Hash-Calculator-React/static/js/377.41def236.chunk.js",
+    "static/media/calculatorhome2.png": "/Hash-Calculator-React/static/media/calculatorhome2.b6d648ac9ae65bb693df.png",
+    "service-worker.js": "/Hash-Calculator-React/service-worker.js",
+    "index.html": "/Hash-Calculator-React/index.html",
+    "main.2b575651.css.map": "/Hash-Calculator-React/static/css/main.2b575651.css.map",
+    "main.8dfeeeb5.js.map": "/Hash-Calculator-React/static/js/main.8dfeeeb5.js.map",
+    "377.41def236.chunk.js.map": "/Hash-Calculator-React/static/js/377.41def236.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b575651.css",
+    "static/js/main.8dfeeeb5.js"
+  ]
+}
